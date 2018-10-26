@@ -15,8 +15,8 @@
 		echo "<h1> Welcome ". $nombre . "</h1><br/>";
 		echo $apellido."</br>";
 	 ?>
-  <input  type="text" style="width: 700px" placeholder= "Encuentrelo" class="form-control" name="txt-nombre" id="txt-nombre" value="<?php $nombre[0] ?>">
-  <label >Esta es tu direccion: + <?php $nombre ?></label>
+  <input  type="text" style="width: 700px" placeholder= "Encuentrelo" class="form-control" name="txt-nombre" id="txt-nombre" value="<?php $nombre ?>">
+  <img src="img/1.jpg" alt="">
 
  
 </body>
